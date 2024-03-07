@@ -1,2 +1,2 @@
-# Java Course
+# Java
 Expressions Java
